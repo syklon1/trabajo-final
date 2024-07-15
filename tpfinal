@@ -1,0 +1,29 @@
+informática-retro/
+├── backend/
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── productController.js
+│   │   ├── categoryController.js
+│   ├── middlewares/
+│   │   ├── authMiddleware.js
+│   ├── models/
+│   │   ├── product.js
+│   │   ├── category.js
+│   │   ├── user.js
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── productRoutes.js
+│   │   ├── categoryRoutes.js
+│   ├── app.js
+│   ├── config.js
+│   ├── .env
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── README.md
+│   ├── .gitignore
+├── frontend/
+│   ├── index.html
+│   ├── main.js
+│   ├── styles.css
+├── README.md
+└── .gitignore
